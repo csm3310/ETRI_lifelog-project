@@ -11,7 +11,7 @@
 - **주최:** ETRI (한국전자통신연구원) × Dacon  
 - **대회 링크:** [https://dacon.io/competitions/official/236468/overview/description](https://dacon.io/competitions/official/236468/overview/description)  
 - **설명:**  
-  라이프로그 데이터(활동·심박·수면 등)를 활용하여 개인의 수면 관련 문항(Q1~Q3, S1~S3)을 예측하는 AI 모델 개발 과제
+  라이프로그 데이터(활동·심박·수면 등)를 활용하여 개인의 수면 관련 문항(Q1 ~ Q3, S1 ~ S3)을 예측하는 AI 모델 개발 과제
 
 ---
 
