@@ -7,7 +7,7 @@
 ---
 
 ## 🏆 대회 개요
-- **대회명:** ETRI 라이프로그 기반 수면 건강 예측 AI 경진대회  
+- **대회명:** ETRI 라이프로그 데이터를 활용한 수면 품질 및 상태 예측 AI 경진대회  
 - **주최:** ETRI (한국전자통신연구원) × Dacon  
 - **대회 링크:** [https://dacon.io/competitions/official/236468/overview/description](https://dacon.io/competitions/official/236468/overview/description)  
 - **설명:**  
